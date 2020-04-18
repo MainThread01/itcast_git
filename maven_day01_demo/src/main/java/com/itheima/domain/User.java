@@ -11,4 +11,7 @@ public class User {
     private String name;
     private String sex;
     private String email;
+    public void main(){
+        System.out.println("我是分支dev");
+    }
 }
